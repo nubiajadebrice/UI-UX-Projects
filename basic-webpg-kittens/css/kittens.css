@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-color: #a0e7e5;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 500%;
+    color: #ffaebc;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 99%; /*no scrolling side to side*/
+    height: 0px;
+    color:#ffaebc;
+}
+
+p {
+    font-family: sans-serif;
+    color: white;
+}
+
+button {
+    background-color: #fbe7c6;
+    color: #ffaebc;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
