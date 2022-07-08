@@ -13,14 +13,6 @@ h1 {
     color: #ffaebc;
 }
 
-footer {
-    position: relative;
-    bottom: 0;
-    width: 99%; /*no scrolling side to side*/
-    height: 0px;
-    color:#ffaebc;
-}
-
 p {
     font-family: sans-serif;
     color: white;
@@ -34,3 +26,10 @@ button {
     font-weight: bold;
 }
 
+footer {
+    position: relative;
+    bottom: 0;
+    width: 99%; /*no scrolling side to side*/
+    height: 0px;
+    color:#ffaebc;
+}
