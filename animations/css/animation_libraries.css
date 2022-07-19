@@ -1,0 +1,15 @@
+html.color-change-2x {
+	-webkit-animation: color-change-2x 2s linear infinite alternate both;
+	        animation: color-change-2x 2s linear infinite alternate both;
+}
+
+img.rotate-center {
+	-webkit-animation: rotate-center 0.6s ease-in-out both;
+	        animation: rotate-center 0.6s ease-in-out both;
+}
+
+img.swing-right-fwd {
+	-webkit-animation: swing-right-fwd 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: swing-right-fwd 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
